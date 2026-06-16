@@ -37,11 +37,7 @@ Here are some projects that represent what I'm learning and building:
 
 #### 🤖 AI & ML
 
-- **AI Healthcare Agent (Rule + Learning Based)**  
-  A Python-based AI agent that simulates different agent types (reflex, model-based, goal-based, utility-based, learning) to give basic health suggestions from symptoms.  
-  _Concepts_: Intelligent agents, basic rule-based reasoning, simple memory.
-
-- **[Coming Soon] ML Mini Projects**  
+- **ML Mini Projects**  
   - Predicting student scores from hours studied (Regression – Scikit-learn)  
   - Simple classification on a small dataset (e.g. Iris / custom data)  
 
