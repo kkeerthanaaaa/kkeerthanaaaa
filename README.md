@@ -1,100 +1,94 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Keerthana 👋</h1>
-<h3 align="center">B.Tech CSE (AIML) | AI & ML Enthusiast | Lifelong Learner</h3>
+<div align="center">
+
+<br/>
+
+<img width="400" height="400" alt="profile" src="https://github.com/user-attachments/assets/74c25598-2a98-41d1-98c0-cb3eeb1357ca" />
+
+<br/><br/>
+
+# Keerthana K
+
+**AI & Machine Learning Student · B.Tech CSE (AI & ML) · Bangalore, India**
+
+<a href="https://www.linkedin.com/in/keerthana-k-177890332/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/2411021061431k/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:helloimkeerthanaa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
 
 ---
 
-### 🌱 About Me
+</div>
 
-- 🎓 I'm a **B.Tech student in Computer Science Engineering (AI & ML specialization)**  
-- 📚 Currently in my **3rd semester**, exploring both theory and hands-on projects  
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, Data Science, and Frontend Projects**
-- 🧪 I enjoy turning concepts into **mini projects** and experimenting with **Python, NumPy, Pandas, and JS**
-- 🎯 Goal: Build strong foundations in **AI/ML** and contribute to real-world projects & research
+## About
 
----
+I'm an AI & ML student passionate about building intelligent systems that solve real-world problems. I enjoy working across the full stack of a project — from data and model building to deployment — and I'm especially drawn to areas like computer vision, LLMs, and intelligent document processing.
 
-### 🛠 Tech Stack
-
-**Languages & Core**
-- 💻 Python · C / C++ · JavaScript  
-- 📊 SQL (basics)  
-
-**AI / Data**
-- 🧠 NumPy · Pandas  
-- 📈 Matplotlib / Seaborn (learning)  
-- 🤖 Scikit-learn (beginner)  
-
-**Web & Tools**
-- 🌐 HTML · CSS · JavaScript (for small web projects)
-- 🧰 Git & GitHub · VS Code · Jupyter Notebook  
+Currently exploring: **Machine Learning · Deep Learning · Computer Vision · LLM Applications · Generative AI · RAG · AI Agents**
 
 ---
 
-### 🚀 Projects & Mini-Projects
+## Projects
 
-Here are some projects that represent what I'm learning and building:
-
-#### 🤖 AI & ML
-
-- **ML Mini Projects**  
-  - Predicting student scores from hours studied (Regression – Scikit-learn)  
-  - Simple classification on a small dataset (e.g. Iris / custom data)  
-
-#### 💻 Python Practice & Data
-
-- **NumPy & Pandas Practice Notebook**  
-  A collection of exercises for arrays, indexing, slicing, statistics, and data cleaning.  
-  _Goal_: Build strong foundations for ML.
-
-- **Data Exploration Mini Tasks**  
-  - Descriptive statistics on small datasets  
-  - Simple visualizations (histograms, bar charts, line plots)
-
-#### 🌐 Web & JavaScript
-
-- **Interactive To-Do List App**  
-  Add, complete, and delete tasks with a clean UI using HTML, CSS, and JavaScript.
-
-- **[Planned] Weather App**  
-  Fetches live weather data using an API and displays it in a simple, responsive UI.
+| Project | Description | Stack |
+|---|---|---|
+| **DocIntel** | Offline intelligent document processing system with OCR pipelines | FastAPI · OpenCV · Tesseract · Python |
+| **Customer Churn Prediction** | End-to-end classification model on customer behavior data | Scikit-learn · Pandas · Python |
+| **Sales Forecasting Dashboard** | Interactive dashboard with forecasting models and visualizations | Jupyter · Matplotlib · Python |
+| **Credit Card Fraud Detection** | ML model for imbalanced fraud classification | Scikit-learn · Python |
+| **Web Scraper** | Automated structured data extraction from web sources | BeautifulSoup · Python |
 
 ---
 
-### 📚 What I’m Learning Right Now
+## Skills
 
-- ✅ Strengthening **Python fundamentals** & **problem-solving**
-- ✅ Learning **NumPy & Pandas** properly with lots of practice  
-- ✅ Exploring **Matplotlib/Seaborn** for data visualization  
-- 🔜 Introduction to **Machine Learning algorithms** (Regression, Classification, Clustering)
-- 🔜 Building more **JS mini projects** (form validation, shopping cart, etc.)
+**Languages** &nbsp; Python · C++ · Java · JavaScript · SQL
 
----
+**AI / Data** &nbsp; TensorFlow · PyTorch · Scikit-learn · OpenCV · Hugging Face · NumPy · Pandas · FastAPI
 
-### 📊 GitHub Highlights
+**Web** &nbsp; React · Next.js · Tailwind CSS · HTML · CSS
 
-> Replace `<your-username>` with your actual GitHub username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
+**Tools** &nbsp; Git · VS Code · Jupyter · Google Colab · MySQL
 
 ---
 
-### 🧩 My Interests (Beyond Code)
+## Certifications
 
-- 📖 Reading & summarizing books like *Atomic Habits*  
-- 🌱 Environmental activities (tree plantation, social internships)  
-- 🗣 Debates, presentations, and continuous self-improvement  
-
----
-
-### 📫 How to Reach Me
-
-- ✉️ Email: `<your-email>`
-- 💼 LinkedIn: `<your-linkedin-url>`
-- 🐙 GitHub: [`<your-username>`](https://github.com/<your-username>)
+- Google AI Professional Certificate
+- Google Data Analytics Professional Certificate
+- HackerRank Gold Badge — Python & C++
+- Udemy — AI for Cybersecurity
+- NPTEL — Data Structures and Algorithms
+- NPTEL — Database Management Systems
 
 ---
 
-⭐️ _Thanks for visiting my profile! Feel free to check out my repositories, open issues, or suggest ideas for new mini projects._
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=keerthanakk&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&icon_color=4a6fa5&text_color=374151" height="150" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanakk&layout=compact&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=374151" height="150" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Open to AI/ML, Data Science, and Software Engineering internships · Open source collaboration welcome**
+
+<br/>
+
+*"Building technology that learns, adapts, and creates meaningful impact."*
+
+</div>
