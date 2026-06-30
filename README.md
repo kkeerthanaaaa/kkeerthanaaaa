@@ -1,11 +1,5 @@
 <div align="center">
 
-<br/>
-
-<img width="400" height="400" alt="profile" src="https://github.com/user-attachments/assets/74c25598-2a98-41d1-98c0-cb3eeb1357ca" />
-
-<br/><br/>
-
 # Keerthana K
 
 **AI & Machine Learning Student · B.Tech CSE (AI & ML) · Bangalore, India**
