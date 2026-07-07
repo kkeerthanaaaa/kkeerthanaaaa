@@ -68,11 +68,9 @@ Currently exploring: **Machine Learning · Deep Learning · Computer Vision · L
 ## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=keerthanakk&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&icon_color=4a6fa5&text_color=374151" height="150" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanakk&layout=compact&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=374151" height="150" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=kkeerthanaaaa&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=1a1a2e&icon_color=4a6fa5&text_color=374151" height="150" />
+  &nbsp; &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkeerthanaaaa&layout=compact&hide_border=true&bg_color=ffffff&title_color=1a1a2e&text_color=374151" height="150" />
 </div>
 
 ---
