@@ -46,7 +46,7 @@ Currently exploring: **Machine Learning · Deep Learning · Computer Vision · L
 
 **Languages** &nbsp; Python · C++ · Java · JavaScript · SQL
 
-**AI / Data** &nbsp; TensorFlow · PyTorch · Scikit-learn · OpenCV · Hugging Face · NumPy · Pandas · FastAPI
+**AI / Data** &nbsp; TensorFlow · PyTorch · Scikit-learn · OpenCV · NumPy · Pandas · FastAPI
 
 **Web** &nbsp; React · Next.js · Tailwind CSS · HTML · CSS
 
