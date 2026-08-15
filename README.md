@@ -1,19 +1,21 @@
 <div align="center">
 
-# Keerthana K
+# Hi there 👋, I'm [Your Name]
 
-**AI & Machine Learning Student · B.Tech CSE (AI & ML) · Bangalore, India**
+### *"Building technology that learns, adapts, and creates meaningful impact."*
 
-<a href="https://www.linkedin.com/in/keerthana-k-177890332/">
+<br/>
+
+<a href="https://www.linkedin.com/in/your-linkedin/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/2411021061431k/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:helloimkeerthanaa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<a href="https://github.com/your-username">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -22,64 +24,82 @@
 
 </div>
 
-## About
+## 🧠 About Me
 
-I'm an AI & ML student passionate about building intelligent systems that solve real-world problems. I enjoy working across the full stack of a project — from data and model building to deployment — and I'm especially drawn to areas like computer vision, LLMs, and intelligent document processing.
-
-Currently exploring: **Machine Learning · Deep Learning · Computer Vision · LLM Applications · Generative AI · RAG · AI Agents**
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **DocIntel** | Offline intelligent document processing system with OCR pipelines | FastAPI · OpenCV · Tesseract · Python |
-| **Customer Churn Prediction** | End-to-end classification model on customer behavior data | Scikit-learn · Pandas · Python |
-| **Sales Forecasting Dashboard** | Interactive dashboard with forecasting models and visualizations | Jupyter · Matplotlib · Python |
-| **Credit Card Fraud Detection** | ML model for imbalanced fraud classification | Scikit-learn · Python |
-| **Web Scraper** | Automated structured data extraction from web sources | BeautifulSoup · Python |
+- 🎓 **Computer Science student** specializing in **Artificial Intelligence and Machine Learning**
+- 🤖 I build **end-to-end AI systems** — from backend services and LLM-powered workflows to cloud-deployed applications
+- 🛠️ My core stack spans **Python, FastAPI, LLM tool-calling frameworks, and cloud infrastructure (Google Cloud)**
+- 🚀 Currently **building a public learning journey** and **exploring cloud infrastructure** in depth
+- 🌱 Actively exploring **LLM agents, Google ADK, and scalable cloud deployment patterns**
 
 ---
 
-## Skills
+## 🎨 Technical Skills
 
-**Languages** &nbsp; Python · C++ · Java · JavaScript · SQL
-
-**AI / Data** &nbsp; TensorFlow · PyTorch · Scikit-learn · OpenCV · NumPy · Pandas · FastAPI
-
-**Web** &nbsp; React · Next.js · Tailwind CSS · HTML · CSS
-
-**Tools** &nbsp; Git · VS Code · Jupyter · Google Colab · MySQL
-
----
-
-## Certifications
-
-- Google AI Professional Certificate
-- Google Data Analytics Professional Certificate
-- HackerRank Gold Badge — Python & C++
-- Udemy — AI for Cybersecurity
-- NPTEL — Data Structures and Algorithms
-- NPTEL — Database Management Systems
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | Python · C++ · Java |
+| **Backend** | FastAPI · REST APIs · JSON |
+| **AI / ML** | Groq LLMs · Google ADK (Agent Development Kit) · LLM Tool Calling · Prompt Engineering |
+| **Cloud & DevOps** | Google Cloud Platform · Google Cloud Run · Google Cloud Skills Boost |
+| **Tools** | Git · GitHub · VS Code |
 
 ---
 
-## GitHub Stats
+## 💼 Projects
+
+### ☁️ Live Weather Reporting App
+`FastAPI` · `Groq LLMs` · `Google ADK Session Runner` · `JSON`
+- Developed a backend workflow that leverages **LLM tool calls** to fetch and parse live weather data in real time
+- Used **Google ADK's session runner** to manage conversational state and orchestrate tool execution reliably
+- Delivered structured, human-readable weather reports by chaining LLM reasoning with external data retrieval
+
+### 🎨 Illustration-Agent
+`Google Cloud Run`
+- Designed and deployed an **illustration generation service** as a containerized application on **Google Cloud Run**
+- Successfully served **live production traffic**, validating the service's scalability and reliability
+- Gained hands-on experience with **cloud-native deployment**, container orchestration, and serverless infrastructure
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech, Computer Science (AI/ML) | Alliance University | — | — |
+
+---
+
+## 🧰 Workshops & Seminars
+
+- 🎤 **Google DevFest Bengaluru 2025** — Attendee
+- 🕹️ **Google Cloud Skills Boost Arcade (Season 2)** — Participant
+- 💻 Active contributor and learner across **GitHub**, **LeetCode**, and **LinkedIn**
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kkeerthanaaaa&show_icons=true&theme=radial&hide_border=true" height="150" alt="GitHub Stats" />
-  &nbsp; &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kkeerthanaaaa&layout=compact&theme=radial&hide_border=true" height="150" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+&nbsp; &nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=redical&hide_border=true" alt="Contribution Graph" width="100%"/>
+
 </div>
 
 ---
 
 <div align="center">
 
-**Open to AI/ML, Data Science, and Software Engineering internships · Open source collaboration welcome**
-
-<br/>
-
-*"Building technology that learns, adapts, and creates meaningful impact."*
+**Open to AI/ML, Data Science, and Cloud/Software Engineering internships · Open source collaboration welcome**
 
 </div>
