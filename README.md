@@ -1,20 +1,20 @@
 <div align="center">
 
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Keerthana
 
 ### *"Building technology that learns, adapts, and creates meaningful impact."*
 
 <br/>
 
-<a href="https://www.linkedin.com/in/your-linkedin/">
+<a href="https://www.linkedin.com/in/keerthana-k-177890332/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:keerthikumar3507@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/your-username">
+<a href="https://github.com/kkeerthanaaaa">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
