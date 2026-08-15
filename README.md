@@ -99,7 +99,7 @@
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| B.Tech, Computer Science (AI/ML) | Alliance University | — | — |
+| B.Tech, Computer Science (AI/ML) | Alliance University | 2024 - 2028 | 8.9 |
 
 ---
 
@@ -115,9 +115,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kkeerthanaaaa&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub Stats" />
 &nbsp; &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkeerthanaaaa&layout=compact&theme=radical&hide_border=true" height="165" alt="Top Languages" />
 
 <br/><br/>
 
