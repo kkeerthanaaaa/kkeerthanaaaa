@@ -36,13 +36,46 @@
 
 ## 🎨 Technical Skills
 
-| Category | Tools & Technologies |
-|---|---|
-| **Languages** | Python · C++ · Java |
-| **Backend** | FastAPI · REST APIs · JSON |
-| **AI / ML** | Groq LLMs · Google ADK (Agent Development Kit) · LLM Tool Calling · Prompt Engineering |
-| **Cloud & DevOps** | Google Cloud Platform · Google Cloud Run · Google Cloud Skills Boost |
-| **Tools** | Git · GitHub · VS Code |
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM_Tool_Calling-412991?style=flat-square&logo=openai&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,11 +121,11 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kkeerthanaaaa&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=redical&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kkeerthanaaaa&theme=redical&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
