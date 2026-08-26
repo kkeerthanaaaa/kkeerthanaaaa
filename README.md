@@ -213,7 +213,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkeerthanaaaa&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 <div align="center">
