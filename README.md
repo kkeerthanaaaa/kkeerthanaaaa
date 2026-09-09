@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Keerthana
 
-### *Aspiring Software Engineer — Backend & AI Systems*
+### *Aspiring ML Engineer — Backend & AI Systems*
 
 <br/>
 
