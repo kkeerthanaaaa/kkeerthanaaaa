@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there 👋, I'm Keerthana K
+# Hello , I'm Keerthana K
 
 ### *Aspiring ML Engineer — Backend & AI Systems*
 
